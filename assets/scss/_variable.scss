@@ -1,0 +1,11 @@
+$color-primary:#fff;
+$text-primary:#737373;
+$heading-color:#080808;
+$icons-color:#a5f01e;
+$background-color:#222021;
+
+@import url(https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap);
+
+@mixin shadow-1{
+    border-radius:.3125rem;
+}
